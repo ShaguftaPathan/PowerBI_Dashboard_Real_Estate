@@ -1,4 +1,5 @@
-A data-driven Power BI dashboard project analyzing real estate sales, agent productivity, gross profit trends, and regional performance.
+A data-driven Power BI dashboard project analyzing real estate sales, agent productivity, gross profit trends, and regional performance. 
+<a href= "https://shaguftapathan.github.io/PowerBI_Dashboard_Real_Estate/">View Project!</a>
 
 # <span style="color:#4a89c2; font-size:22px;"><b>Motivation</b></span>  
 In the competitive real estate market, having visibility into agent performance, regional profitability, and sales funnel efficiency is vital for strategic decisions. The client, a real estate agency operating in multiple U.S. cities, sought a centralized Business Intelligence solution to:
@@ -40,6 +41,8 @@ This Power BI dashboard delivers a comprehensive view of end-to-end sales perfor
 •	Revenue Visibility: Tracked $19.3M revenue in 2024 and $16.4M in early 2025
 •	Agent Productivity: Revealed disparities in deal closure efficiency (e.g., JD Luis with 5 deals and $951.99K gross profit)
 •	Actionable Insights: Highlighted underperforming cities (e.g., San Francisco) and enabled targeted strategy shifts
+
+<a href = "https://github.com/ShaguftaPathan/PowerBI_Dashboard_Real_Estate/Real_Estate_Business_Analysis.pdf">View Dashboard!</a>
 
 # <span style="color:#4a89c2; font-size:22px;"><b> Summary/Conclusion</b></span> 
 The project successfully transformed fragmented real estate sales data into a dynamic and visual business performance report. The client can now:
