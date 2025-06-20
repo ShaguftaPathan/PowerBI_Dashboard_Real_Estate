@@ -51,5 +51,4 @@ The project successfully transformed fragmented real estate sales data into a dy
 * Prioritize revenue-generating efforts
 * React to market shifts swiftly
 
-“This dashboard has changed how we manage our team. We can now see which agents are closing deals efficiently and where we need to focus more. It's not just about numbers anymore—it's about understanding the business in real time.”
-- Client Feedback
+“This dashboard has changed how we manage our team. We can now see which agents are closing deals efficiently and where we need to focus more. It's not just about numbers anymore—it's about understanding the business in real time.” - **Client Feedback**
